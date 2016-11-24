@@ -1,0 +1,25 @@
+{
+  "name": "FirstBootCamp-Assignment",
+  "version": "1.0.0",
+  "description": "Basic JavaScript project for demonstration of programming concepts",
+  "main": "app/library.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deee19/FirstBootCamp-Assignment.git"
+  },
+  "author": "Durodola Damilola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Deee19/FirstBootCamp-Assignment/issues"
+  },
+  "homepage": "https://github.com/Deee19/FirstBootCamp-Assignment#readme",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
